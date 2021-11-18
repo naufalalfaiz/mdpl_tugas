@@ -1,0 +1,89 @@
+	table{
+	    font: normal 14px;
+	    font-family: sans-serif;
+		}
+	h3 {
+		font-size: 30px;
+	    margin: 2px;
+		}
+	h2	{
+		font-family: sans-serif;
+		}
+	.right_header {
+	    background-color: #3b8686;
+	    height: 60px;
+		}
+	.left_header{
+	    background-color: #79bd9a;
+	    text-align: center;
+	    color: white;
+	    width: 20%;
+		}
+	.sidebar {
+	    height: 570px;
+	    background-color: #a8dba8;
+	    vertical-align: top;
+		}
+	#bgn_atas{
+		background-color: #79bd9a;
+	}
+	ul {
+	    list-style-type: none;
+	    margin: 0;
+	    padding: 0;
+	    width: 200px;
+	    background-color: #79bd9a;
+		}
+
+	li a {
+	    display: block;
+	    color: black;
+	    text-align: center;
+	    padding: 14px 16px;
+	    text-decoration: none;text-decoration: none;
+		}
+	li a:hover:not(.active) {
+	    background-color: #cff09e;
+	    color: white;
+		}
+	#secondary {
+	    margin: 12px;
+	    padding: 0;
+		}
+	.content {
+	    vertical-align: baseline;
+	    background-color: #e6ede8;
+	    padding: 30px;
+		}
+	.active{
+	    color: white;
+		background-color: #3b8686;
+		}
+	#footer {
+	    color: white;
+	    height: 42px;
+	    background-color: #cff09e;
+	    text-align: center;
+		}
+	table tr:nth-child(odd) {
+	    background-color: white;
+		}
+	table tr:nth-child(even) {
+		background-color: #e6ede8;
+		}
+	a{
+		color: #191970;
+		text-decoration: none;
+	}
+	button {
+	   cursor: pointer;
+	   color: white;
+	   background: #20B2AA;
+	   width: 70px;
+	   height: 25px;
+	   border-radius: 4px;
+	   border: none;
+	   }
+	button:hover {
+	   background: #3CB371;
+	   }
